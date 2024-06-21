@@ -46,7 +46,11 @@ Although unlikely, these players may exist, posing a threat to the identificatio
 
 ## Results
 
-Conventional wisdom in baseball suggests that since players shift into areas of the field that batters are more likely to hit into, the shift lowers BABIP. Therefore, banning the shift opens those areas back up for the batters, raising BABIP. In Table 1, the 2 by 2 difference in differences, all outcomes, including BABIP, saw significant impacts due to the shift restriction. In Table 2, the fixed effects model, the effect shows up as a positive value of .006, meaning the shift increased team BABIP by .006 percentage points. Given that this is statistically significant at the 1% level, that is evidence that banning the shift does indeed increase BABIP. We performed various other experiments to see which other offensive outcomes may be impacted by the shift restriction. The estimated effect for on base percentage, slugging percentage, and on base plus slugging percentage is statistically insignificant. Scoring is up due to the shift restriction, as teams scored .136 runs per game more, only significant at the 10% level. Lastly, home runs were more common after the shift restriction, increasing by .087 per game, meaning fans saw an additional home run about 1 out of every 11 games. This is surprising, as the main focus was on increasing batting average on balls in play, and a home run isn’t counted as a ball in play. Although this result is surprising, there are possible explanations. Maybe pull hitters are affected by the shift restriction more, where previously, they might have been trying to hit the ball to the open field to react against the shift, hitting less home runs as a result, but now, they play to their strengths, pulling the ball and hitting with more power more frequently, resulting in more home runs. Meanwhile, batting average decreased by .004, only significant at the 10% level. Sacrifices per game decreased by .060, statistically significant at the 1% level, indicating that the shift restrictions caused batting approaches to change.
+Conventional wisdom in baseball suggests that since players shift into areas of the field that batters are more likely to hit into, the shift lowers BABIP. Therefore, banning the shift opens those areas back up for the batters, raising BABIP. In Table 1, the 2 by 2 difference in differences, all outcomes, including BABIP, saw significant impacts due to the shift restriction. 
+![Table 1](tables and pictures/2x2 D in D Table Landscape.png)
+
+
+In Table 2, the fixed effects model, the effect shows up as a positive value of .006, meaning the shift increased team BABIP by .006 percentage points. Given that this is statistically significant at the 1% level, that is evidence that banning the shift does indeed increase BABIP. We performed various other experiments to see which other offensive outcomes may be impacted by the shift restriction. The estimated effect for on base percentage, slugging percentage, and on base plus slugging percentage is statistically insignificant. Scoring is up due to the shift restriction, as teams scored .136 runs per game more, only significant at the 10% level. Lastly, home runs were more common after the shift restriction, increasing by .087 per game, meaning fans saw an additional home run about 1 out of every 11 games. This is surprising, as the main focus was on increasing batting average on balls in play, and a home run isn’t counted as a ball in play. Although this result is surprising, there are possible explanations. Maybe pull hitters are affected by the shift restriction more, where previously, they might have been trying to hit the ball to the open field to react against the shift, hitting less home runs as a result, but now, they play to their strengths, pulling the ball and hitting with more power more frequently, resulting in more home runs. Meanwhile, batting average decreased by .004, only significant at the 10% level. Sacrifices per game decreased by .060, statistically significant at the 1% level, indicating that the shift restrictions caused batting approaches to change.
 The effects on average, runs per game and home runs per game should be investigated further, as parallel trends is unlikely to hold. One interesting caveat is that the shift ban and other rules like it are meant to make the game more exciting, but walks leading to a higher on base percentage is a positive batter outcome that (arguably) might not make the game more exciting. (walks in and of themselves are anti-climactic, but they do increase the likelihood of a stolen base or runs, so they could indirectly make the game more exciting). Even a positive estimate does not provide strong evidence for the rule making baseball more exciting. That is why the main focus of the paper is BABIP and home runs– they are statistics that have the most implications for policy. 
 
 ## Future Applications
@@ -63,7 +67,7 @@ There have been concerted efforts by the MLB to make the game more exciting to a
 
 ## Works Cited
 
-1. **“2021 Register League Encyclopedia.”** *Baseball*.  
+1. **“2021 Register League Encyclopedia.”** *Baseball Reference*.  
    Available at: [Baseball Reference](https://www.baseball-reference.com/register/league.cgi?year=2021).
 
 2. **Arthur, “Do MLB Teams Undervalue Defense—Or Just Value It Differently?”**  
@@ -75,7 +79,7 @@ There have been concerted efforts by the MLB to make the game more exciting to a
    Available at: [Forbes](https://www.forbes.com/sites/tonyblengino/2023/04/18/micro-level-mlb-shift-ban-exammax-muncy-others-it-helps-most/?sh=7e80d4da3f04).
 
 4. **Cockcroft, Tristan H. “A Primer on BABIP.”**  
-   *ESPN Internet Ventures*, 9 Feb. 2011.  
+   *ESPN*, 9 Feb. 2011.  
    Available at: [ESPN](https://www.espn.com/fantasy/baseball/flb/story?page=mlbdk2k11babipprimer).
 
 5. **Doan, “Shifting Expectations: An In-Depth Overview of Players' Approaches to the Shift Based on Batted-Ball Events.”**  
@@ -95,7 +99,7 @@ There have been concerted efforts by the MLB to make the game more exciting to a
    Available at: [Baseball America](https://www.baseballamerica.com/stories/banning-shifts-may-not-make-much-difference-in-mlb).
 
 9. **Hawke, “Quantifying the Effect of the Shift in Major League Baseball.”**  
-   *Bard College Senior Projects*, Spring 2017.  
+   *Bard College*, Spring 2017.  
    Available at: [Bard Digital Commons](https://digitalcommons.bard.edu/senproj_s2017/191).
 
 10. **Melville et al., “Optimizing Baseball Fielder Positioning with Consideration for Adaptable Hitters.”**  
