@@ -61,6 +61,35 @@ There have been concerted efforts by the MLB to make the game more exciting to a
 	The question as to why home runs saw an increase is intriguing. The decrease in sacrifices might indicate that instead of bunting, hitters swung away, resulting in more home runs. There could have been different coaching philosophies due to the shift restriction, leading to less emphasis on using the whole field and more emphasis on maximizing power. Overall, the evidence suggests that the 2023 rule change to restrict the shift at the major league level was a positive change, and I would suggest taking it a step further, banning the alternative defensive positioning that teams use, termed ‘shading’, where the shortstop plays up the middle against left-handed pull hitters and the third baseman moves over to the shortstop’s traditional position.
 	This evidence serves as an extension to existing literature by estimating a causal effect of a rule change restricting the shift, indicating that the shift restriction increased positive batting outcomes as intended. A possible problem is that not all batting outcomes followed parallel trends between AA and MLB, and that assumption is inherently untestable. Overall, this research suggests that rules changes like shift restrictions can have immediate impacts on batters and teams more generally. There is still room to expand on this analysis, as there are a myriad of rules changes that the MLB can consider to improve the game.
 
+## Works Cited
+
+“2021 Register League Encyclopedia.” Baseball, https://www.baseball-reference.com/register/league.cgi?year=2021.
+Arthur, “Do MLB Teams Undervalue Defense—Or Just Value It Differently?” FiveThirtyEight.com, 18 Apr. 2017, https://fivethirtyeight.com/features/do-mlb-teams-undervalue-defense-or-just-value-it-differently. 
+Blengino, “How Is MLB’s Shift Ban Playing Out? Just Look At Max Muncy And These Nine Other Pull Hitters”, 18 Apr. 2023, https://www.forbes.com/sites/tonyblengino/2023/04/18/micro-level-mlb-shift-ban-exammax-muncy-others-it-helps-most/?sh=7e80d4da3f04. 
+Cockcroft, Tristan H. “A Primer on BABIP.” ESPN, ESPN Internet Ventures, 9 Feb. 2011, https://www.espn.com/fantasy/baseball/flb/story?page=mlbdk2k11babipprimer. 
+Doan, “Shifting Expectations: An In-Depth Overview of Players' Approaches to the Shift Based on Batted-Ball Events.”, Fall 2019, https://go.gale.com/ps/i.do?id=GALE%7CA609260804&sid=googleScholar&v=2.1&it=r&linkaccess=abs&issn=07346891&p=AONE&sw=w&userGroupName=mlin_w_willcoll 
+Feinsand, Mark. “MLB, MLBPA Agree to New CBA; Season to Start April 7.” MLB.com, MLB, 11 Mar. 2022, https://www.mlb.com/news/mlb-mlbpa-agree-to-cba#:~:text=In%20exchange%20for%20agreeing%20to,pick%20compensation.
+Gartland, Dan. “Si:Am: MLB Goes after Minor Leagues (Again).” Sports Illustrated, Sports Illustrated, 15 Feb. 2022, https://www.si.com/mlb/2022/02/15/mlb-lockout-minor-league-reserve-list-limits#:~:text=First%2C%20some%20background%3A%20In%20December,for%20all%2030%20MLB%20clubs). 
+Glaser, “Banning Shifts May Not Make Much Difference in MLB”, 9 March 2022, https://www.baseballamerica.com/stories/banning-shifts-may-not-make-much-difference-in-mlb/ 
+Hawke, “Quantifying the Effect of the Shift in Major League Baseball”, Spring 2017, https://digitalcommons.bard.edu/senproj_s2017/191/ 
+Melville et. al., “Optimizing Baseball Fielder Positioning with Consideration for Adaptable Hitters”, https://assets-global.website-files.com/5f1af76ed86d6771ad48324b/65bfe4996c2c54376b78d238_193963%20-%20Optimizing%20Baseball%20Fielder%20Positioning%20with%20Consideration%20for%20Adaptable%20Hitters.pdf 
+“MLB Team Fielder Positioning.” Baseballsavant.com, https://baseballsavant.mlb.com/visuals/team-positioning?teamId=111&venue=home&firstBase=0&shift=1&batSide=&season=2021.
+“MLB to Experiment with Bigger Bases at Triple-A During 2021 Season.” MiLB.com, 11 Mar. 2021, https://www.milb.com/news/mlb-bigger-bases.
+Montes, “Optimizing Outfield Positioning: Creating an Area-Based Alignment Using Outfielder Ability and Hitter Tendencies”, Spring 2021, https://sabr.org/journal/article/optimizing-outfield-positioning-creating-an-area-based-alignment-using-outfielder-ability-and-hitter-tendencies/ 
+Pastuovic, Michael. “The Shift.” Northwestern Sports Analytics Group, 13 Dec. 2020, sites.northwestern.edu/nusportsanalytics/2020/12/13/the-shift/. 
+Petriello, “No more shift could mean quite a few more hits for these batters”, 4 Jan. 2023, https://www.mlb.com/news/hitters-likely-to-be-affected-by-shift-ban 
+“Prospect Search: Prospect Pipeline.” MLB.com, https://www.mlb.com/prospects/stats/search.
+Sawchik, Big Data Baseball: Math, Miracles, and the End of a 20 Year Losing Streak, 19 May. 2015.
+“Shifts: Glossary.” MLB.com, https://www.mlb.com/glossary/statcast/shifts.
+Simon, Mark, and Harris Yudin. “Putting (Synthetic) Statcast Numbers on Top Minor League Sluggers.” Sports Info Solutions, 3 Mar. 2022, https://www.baseballinfosolutions.com/2022/03/03/putting-synthetic-statcast-numbers-on-top-minor-league-sluggers/.
+“Statcast Search.” Baseballsavant.com, https://baseballsavant.mlb.com/statcast_search. 
+Verducci, Tom. “All the Changes Coming to Baseball in 2021.” Sports Illustrated, Sports Illustrated, 1 Apr. 2021, https://www.si.com/mlb/2021/04/01/mlb-rule-changes-2021-shift-pitch-clock-extra-innings. 
+Verducci, “How Banning Infield Shifts Will Change MLB”, 21 Nov. 2022, https://www.si.com/mlb/2022/11/21/banning-infield-shifts-impact 
+Woolley, Andrew. “Sweeping Changes for Minor League Baseball Games Include Extra-Inning Runner at 2nd.” USA Today, Gannett Satellite Information Network, 14 Mar. 2018, www.usatoday.com/story/sports/mlb/2018/03/14/minor-league-baseball-rule-changes-runner-second-extra-innings-pitch-clock/424808002/. 
+
+Peer Review By Hikaru Hayakawa and David Goetze.
+
+
 ### Contact
 
 For any questions or feedback, please open an issue on GitHub or reach out at [noahdpoll@gmail.com](mailto:your.email@example.com).
