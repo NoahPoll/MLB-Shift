@@ -63,29 +63,96 @@ There have been concerted efforts by the MLB to make the game more exciting to a
 
 ## Works Cited
 
-“2021 Register League Encyclopedia.” Baseball, https://www.baseball-reference.com/register/league.cgi?year=2021.
-Arthur, “Do MLB Teams Undervalue Defense—Or Just Value It Differently?” FiveThirtyEight.com, 18 Apr. 2017, https://fivethirtyeight.com/features/do-mlb-teams-undervalue-defense-or-just-value-it-differently. 
-Blengino, “How Is MLB’s Shift Ban Playing Out? Just Look At Max Muncy And These Nine Other Pull Hitters”, 18 Apr. 2023, https://www.forbes.com/sites/tonyblengino/2023/04/18/micro-level-mlb-shift-ban-exammax-muncy-others-it-helps-most/?sh=7e80d4da3f04. 
-Cockcroft, Tristan H. “A Primer on BABIP.” ESPN, ESPN Internet Ventures, 9 Feb. 2011, https://www.espn.com/fantasy/baseball/flb/story?page=mlbdk2k11babipprimer. 
-Doan, “Shifting Expectations: An In-Depth Overview of Players' Approaches to the Shift Based on Batted-Ball Events.”, Fall 2019, https://go.gale.com/ps/i.do?id=GALE%7CA609260804&sid=googleScholar&v=2.1&it=r&linkaccess=abs&issn=07346891&p=AONE&sw=w&userGroupName=mlin_w_willcoll 
-Feinsand, Mark. “MLB, MLBPA Agree to New CBA; Season to Start April 7.” MLB.com, MLB, 11 Mar. 2022, https://www.mlb.com/news/mlb-mlbpa-agree-to-cba#:~:text=In%20exchange%20for%20agreeing%20to,pick%20compensation.
-Gartland, Dan. “Si:Am: MLB Goes after Minor Leagues (Again).” Sports Illustrated, Sports Illustrated, 15 Feb. 2022, https://www.si.com/mlb/2022/02/15/mlb-lockout-minor-league-reserve-list-limits#:~:text=First%2C%20some%20background%3A%20In%20December,for%20all%2030%20MLB%20clubs). 
-Glaser, “Banning Shifts May Not Make Much Difference in MLB”, 9 March 2022, https://www.baseballamerica.com/stories/banning-shifts-may-not-make-much-difference-in-mlb/ 
-Hawke, “Quantifying the Effect of the Shift in Major League Baseball”, Spring 2017, https://digitalcommons.bard.edu/senproj_s2017/191/ 
-Melville et. al., “Optimizing Baseball Fielder Positioning with Consideration for Adaptable Hitters”, https://assets-global.website-files.com/5f1af76ed86d6771ad48324b/65bfe4996c2c54376b78d238_193963%20-%20Optimizing%20Baseball%20Fielder%20Positioning%20with%20Consideration%20for%20Adaptable%20Hitters.pdf 
-“MLB Team Fielder Positioning.” Baseballsavant.com, https://baseballsavant.mlb.com/visuals/team-positioning?teamId=111&venue=home&firstBase=0&shift=1&batSide=&season=2021.
-“MLB to Experiment with Bigger Bases at Triple-A During 2021 Season.” MiLB.com, 11 Mar. 2021, https://www.milb.com/news/mlb-bigger-bases.
-Montes, “Optimizing Outfield Positioning: Creating an Area-Based Alignment Using Outfielder Ability and Hitter Tendencies”, Spring 2021, https://sabr.org/journal/article/optimizing-outfield-positioning-creating-an-area-based-alignment-using-outfielder-ability-and-hitter-tendencies/ 
-Pastuovic, Michael. “The Shift.” Northwestern Sports Analytics Group, 13 Dec. 2020, sites.northwestern.edu/nusportsanalytics/2020/12/13/the-shift/. 
-Petriello, “No more shift could mean quite a few more hits for these batters”, 4 Jan. 2023, https://www.mlb.com/news/hitters-likely-to-be-affected-by-shift-ban 
-“Prospect Search: Prospect Pipeline.” MLB.com, https://www.mlb.com/prospects/stats/search.
-Sawchik, Big Data Baseball: Math, Miracles, and the End of a 20 Year Losing Streak, 19 May. 2015.
-“Shifts: Glossary.” MLB.com, https://www.mlb.com/glossary/statcast/shifts.
-Simon, Mark, and Harris Yudin. “Putting (Synthetic) Statcast Numbers on Top Minor League Sluggers.” Sports Info Solutions, 3 Mar. 2022, https://www.baseballinfosolutions.com/2022/03/03/putting-synthetic-statcast-numbers-on-top-minor-league-sluggers/.
-“Statcast Search.” Baseballsavant.com, https://baseballsavant.mlb.com/statcast_search. 
-Verducci, Tom. “All the Changes Coming to Baseball in 2021.” Sports Illustrated, Sports Illustrated, 1 Apr. 2021, https://www.si.com/mlb/2021/04/01/mlb-rule-changes-2021-shift-pitch-clock-extra-innings. 
-Verducci, “How Banning Infield Shifts Will Change MLB”, 21 Nov. 2022, https://www.si.com/mlb/2022/11/21/banning-infield-shifts-impact 
-Woolley, Andrew. “Sweeping Changes for Minor League Baseball Games Include Extra-Inning Runner at 2nd.” USA Today, Gannett Satellite Information Network, 14 Mar. 2018, www.usatoday.com/story/sports/mlb/2018/03/14/minor-league-baseball-rule-changes-runner-second-extra-innings-pitch-clock/424808002/. 
+1. **“2021 Register League Encyclopedia.”** *Baseball*.  
+   Available at: [Baseball Reference](https://www.baseball-reference.com/register/league.cgi?year=2021).
+
+2. **Arthur, “Do MLB Teams Undervalue Defense—Or Just Value It Differently?”**  
+   *FiveThirtyEight.com*, 18 Apr. 2017.  
+   Available at: [FiveThirtyEight](https://fivethirtyeight.com/features/do-mlb-teams-undervalue-defense-or-just-value-it-differently).
+
+3. **Blengino, “How Is MLB’s Shift Ban Playing Out? Just Look At Max Muncy And These Nine Other Pull Hitters.”**  
+   *Forbes*, 18 Apr. 2023.  
+   Available at: [Forbes](https://www.forbes.com/sites/tonyblengino/2023/04/18/micro-level-mlb-shift-ban-exammax-muncy-others-it-helps-most/?sh=7e80d4da3f04).
+
+4. **Cockcroft, Tristan H. “A Primer on BABIP.”**  
+   *ESPN Internet Ventures*, 9 Feb. 2011.  
+   Available at: [ESPN](https://www.espn.com/fantasy/baseball/flb/story?page=mlbdk2k11babipprimer).
+
+5. **Doan, “Shifting Expectations: An In-Depth Overview of Players' Approaches to the Shift Based on Batted-Ball Events.”**  
+   *Gale*, Fall 2019.  
+   Available at: [Gale](https://go.gale.com/ps/i.do?id=GALE%7CA609260804&sid=googleScholar&v=2.1&it=r&linkaccess=abs&issn=07346891&p=AONE&sw=w&userGroupName=mlin_w_willcoll).
+
+6. **Feinsand, Mark. “MLB, MLBPA Agree to New CBA; Season to Start April 7.”**  
+   *MLB.com*, 11 Mar. 2022.  
+   Available at: [MLB.com](https://www.mlb.com/news/mlb-mlbpa-agree-to-cba#:~:text=In%20exchange%20for%20agreeing%20to,pick%20compensation).
+
+7. **Gartland, Dan. “Si:Am: MLB Goes after Minor Leagues (Again).”**  
+   *Sports Illustrated*, 15 Feb. 2022.  
+   Available at: [Sports Illustrated](https://www.si.com/mlb/2022/02/15/mlb-lockout-minor-league-reserve-list-limits#:~:text=First%2C%20some%20background%3A%20In%20December,for%20all%2030%20MLB%20clubs).
+
+8. **Glaser, “Banning Shifts May Not Make Much Difference in MLB.”**  
+   *Baseball America*, 9 Mar. 2022.  
+   Available at: [Baseball America](https://www.baseballamerica.com/stories/banning-shifts-may-not-make-much-difference-in-mlb).
+
+9. **Hawke, “Quantifying the Effect of the Shift in Major League Baseball.”**  
+   *Bard College Senior Projects*, Spring 2017.  
+   Available at: [Bard Digital Commons](https://digitalcommons.bard.edu/senproj_s2017/191).
+
+10. **Melville et al., “Optimizing Baseball Fielder Positioning with Consideration for Adaptable Hitters.”**  
+    Available at: [PDF](https://assets-global.website-files.com/5f1af76ed86d6771ad48324b/65bfe4996c2c54376b78d238_193963%20-%20Optimizing%20Baseball%20Fielder%20Positioning%20with%20Consideration%20for%20Adaptable%20Hitters.pdf).
+
+11. **“MLB Team Fielder Positioning.”**  
+    *Baseballsavant.com*.  
+    Available at: [Baseball Savant](https://baseballsavant.mlb.com/visuals/team-positioning?teamId=111&venue=home&firstBase=0&shift=1&batSide=&season=2021).
+
+12. **“MLB to Experiment with Bigger Bases at Triple-A During 2021 Season.”**  
+    *MiLB.com*, 11 Mar. 2021.  
+    Available at: [MiLB](https://www.milb.com/news/mlb-bigger-bases).
+
+13. **Montes, “Optimizing Outfield Positioning: Creating an Area-Based Alignment Using Outfielder Ability and Hitter Tendencies.”**  
+    *SABR Journal*, Spring 2021.  
+    Available at: [SABR](https://sabr.org/journal/article/optimizing-outfield-positioning-creating-an-area-based-alignment-using-outfielder-ability-and-hitter-tendencies).
+
+14. **Pastuovic, Michael. “The Shift.”**  
+    *Northwestern Sports Analytics Group*, 13 Dec. 2020.  
+    Available at: [Northwestern Sports Analytics](https://sites.northwestern.edu/nusportsanalytics/2020/12/13/the-shift/).
+
+15. **Petriello, “No More Shift Could Mean Quite a Few More Hits for These Batters.”**  
+    *MLB.com*, 4 Jan. 2023.  
+    Available at: [MLB](https://www.mlb.com/news/hitters-likely-to-be-affected-by-shift-ban).
+
+16. **“Prospect Search: Prospect Pipeline.”**  
+    *MLB.com*.  
+    Available at: [MLB Prospects](https://www.mlb.com/prospects/stats/search).
+
+17. **Sawchik, Big Data Baseball: Math, Miracles, and the End of a 20 Year Losing Streak.**  
+    *HarperCollins*, 19 May. 2015.
+
+18. **“Shifts: Glossary.”**  
+    *MLB.com*.  
+    Available at: [MLB Glossary](https://www.mlb.com/glossary/statcast/shifts).
+
+19. **Simon, Mark, and Harris Yudin. “Putting (Synthetic) Statcast Numbers on Top Minor League Sluggers.”**  
+    *Sports Info Solutions*, 3 Mar. 2022.  
+    Available at: [Sports Info Solutions](https://www.baseballinfosolutions.com/2022/03/03/putting-synthetic-statcast-numbers-on-top-minor-league-sluggers/).
+
+20. **“Statcast Search.”**  
+    *Baseballsavant.com*.  
+    Available at: [Baseball Savant](https://baseballsavant.mlb.com/statcast_search).
+
+21. **Verducci, Tom. “All the Changes Coming to Baseball in 2021.”**  
+    *Sports Illustrated*, 1 Apr. 2021.  
+    Available at: [Sports Illustrated](https://www.si.com/mlb/2021/04/01/mlb-rule-changes-2021-shift-pitch-clock-extra-innings).
+
+22. **Verducci, “How Banning Infield Shifts Will Change MLB.”**  
+    *Sports Illustrated*, 21 Nov. 2022.  
+    Available at: [Sports Illustrated](https://www.si.com/mlb/2022/11/21/banning-infield-shifts-impact).
+
+23. **Woolley, Andrew. “Sweeping Changes for Minor League Baseball Games Include Extra-Inning Runner at 2nd.”**  
+    *USA Today*, 14 Mar. 2018.  
+    Available at: [USA Today](https://www.usatoday.com/story/sports/mlb/2018/03/14/minor-league-baseball-rule-changes-runner-second-extra-innings-pitch-clock/424808002/).
+
+---
 
 Peer Review By Hikaru Hayakawa and David Goetze.
 
