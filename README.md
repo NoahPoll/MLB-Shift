@@ -47,7 +47,7 @@ Although unlikely, these players may exist, posing a threat to the identificatio
 ## Results
 
 Conventional wisdom in baseball suggests that since players shift into areas of the field that batters are more likely to hit into, the shift lowers BABIP. Therefore, banning the shift opens those areas back up for the batters, raising BABIP. In Table 1, the 2 by 2 difference in differences, all outcomes, including BABIP, saw significant impacts due to the shift restriction. 
-![Table 1](MLB-Shift/tables%20and%20graphs/2x2%20DinD%20Model%20Table%20Landscape.png)
+![Table 1](tables%20and%20graphs/2x2%20DinD%20Model%20Table%20Landscape.png)
 
 
 In Table 2, the fixed effects model, the effect shows up as a positive value of .006, meaning the shift increased team BABIP by .006 percentage points. 
